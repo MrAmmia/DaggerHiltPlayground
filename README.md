@@ -11,6 +11,11 @@ This project demonstrates the use of Dependency Injection with the **Dagger-Hilt
 
 ## Screenshots
 
+MVI influencing the UI based on result from network call
+![dagger_1](https://github.com/user-attachments/assets/01712eb7-6cef-4c31-8c50-ecbd9f379c15)
+![dagger_2](https://github.com/user-attachments/assets/b2259f1f-f4e2-4b6e-b638-d99157417552)
+
+
 ## Tech Stack
 
 - **Programming Language**: Kotlin
